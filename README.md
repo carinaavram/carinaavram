@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carina Avram from Romania</h1>
 <h3 align="center">I'm majoring in Computer Science with a double concetration in<br>Software Development & Web Design</h3>
 
-- 🔭 I’m currently working on **JavaScript Algorithms and Data Structures Certification from freeCodeCamp**
+- 🔭 I’m currently working on **Next.js and React**
 
 - 🌱 I’m currently learning **JavaScript, React**
 
