@@ -21,6 +21,9 @@ Feel free to reach out to me at carinaavram97@gmail.com for any collaboration, j
 ## 📄 My Experiences
 Learn more about my experiences and journey in tech through [my resume](https://docs.google.com/document/d/e/2PACX-1vSXc8b5UJ2E6ZtX6wdM64uxGLe31KS3344jIHZmlPyLUE5yjMOg1brOKp_Sj_pepw/pub?embedded=true).
 
+## 🌐 Explore My Portfolio
+Check out my personal portfolio website, where you can explore my projects and learn more about me: [carinaavram.github.io](https://carinaavram.github.io/)
+
 ## Connect with Me 👇
 - [CodePen](https://codepen.io/carinaavram)
 - [LinkedIn](https://linkedin.com/in/carina-avram)
