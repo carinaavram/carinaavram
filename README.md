@@ -1,32 +1,45 @@
-<h1 align="center">Hi 👋, I'm Carina Avram from Romania</h1>
-<h3 align="center">I'm majoring in Computer Science with a double concetration in<br>Software Development & Web Design</h3>
+# Hi there 👋, I'm Carina Avram from Romania!
 
-- 🔭 I’m currently working on **Next.js and React**
+## About Me 🚀
+I'm a passionate Computer Science major with a double concentration in Software Development and Web Design. My journey in the tech world has been a thrilling adventure, and I'm constantly seeking new challenges to grow as a developer.
 
-- 🌱 I’m currently learning **JavaScript, React**
+## 🔭 Currently Working On
+I'm currently diving deep into Next.js and React, building exciting web applications that showcase my skills and creativity.
 
-- 👯 I’m seeking **an internship opportunity as a Software Developer**
+## 🌱 Currently Learning
+JavaScript, React, and Next.js have my full attention as I continue to expand my knowledge in these powerful technologies.
 
-- 👨‍💻 All of my projects are available at [carinaavram.github.io](carinaavram.github.io)
+## 👯 Seeking Opportunities
+I'm eager to explore internship opportunities as a Software Developer, where I can contribute my expertise and learn from experienced teams.
 
-- 📫 How to reach me **carinaavram97@gmail.com**
+## 🎲 Fun Fact
+In a past life, I worked as a casino dealer on the cruise ships of Royal Caribbean 🚢
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vSXc8b5UJ2E6ZtX6wdM64uxGLe31KS3344jIHZmlPyLUE5yjMOg1brOKp_Sj_pepw/pub?embedded=true](https://docs.google.com/document/d/e/2PACX-1vSXc8b5UJ2E6ZtX6wdM64uxGLe31KS3344jIHZmlPyLUE5yjMOg1brOKp_Sj_pepw/pub?embedded=true)
+## 📫 How to Reach Me
+Feel free to reach out to me at carinaavram97@gmail.com for any collaboration, job opportunities or simply to discuss tech trends!
 
-- ⚡ Fun fact **I was a casino dealer**
+## 📄 My Experiences
+Learn more about my experiences and journey in tech through [my resume](https://docs.google.com/document/d/e/2PACX-1vSXc8b5UJ2E6ZtX6wdM64uxGLe31KS3344jIHZmlPyLUE5yjMOg1brOKp_Sj_pepw/pub?embedded=true).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/carinaavram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="carinaavram" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/carina-avram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carina-avram" height="30" width="40" /></a>
-<a href="https://fb.com/carina.avram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="carina.avram" height="30" width="40" /></a>
-<a href="https://instagram.com/carinaavram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carinaavram" height="30" width="40" /></a>
-</p>
+## Connect with Me 👇
+- [CodePen](https://codepen.io/carinaavram)
+- [LinkedIn](https://linkedin.com/in/carina-avram)
+- [Facebook](https://fb.com/carina.avram)
+- [Instagram](https://instagram.com/carinaavram)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Languages and Tools
+- JavaScript
+- React
+- Next.js
+- MongoDB
+- CSS3
+- Git
+- HTML5
+- Adobe Illustrator
+- MySQL
+- Adobe Photoshop
+- Python
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=carinaavram&show_icons=true&locale=en&layout=compact" alt="carinaavram" /></p>
+<p align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=carinaavram&show_icons=true&locale=en&layout=compact" alt="carinaavram" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=carinaavram&show_icons=true&locale=en" alt="carinaavram" /></p>
-
+<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=carinaavram&show_icons=true&locale=en" alt="carinaavram" /></p>
